@@ -8,12 +8,14 @@
     "start": "nodemon app.js --exec babel-node"
   },
   "keywords": [],
-  "author": "",
+  "author": "adoview@gmail.com",
   "license": "ISC",
   "dependencies": {
     "connect-history-api-fallback": "^2.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
     "express": "^4.18.1",
+    "mongoose": "^6.5.4",
     "morgan": "^1.10.0",
     "pg": "^8.8.0"
   },
